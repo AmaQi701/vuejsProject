@@ -16,9 +16,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ff5e290-3a14-446c-b362-6d704cc760f0" name="Default Changelist" comment="book">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1ff5e290-3a14-446c-b362-6d704cc760f0" name="Default Changelist" comment="git i">
+      <change afterPath="$PROJECT_DIR$/bookshelf-front/public/images/harryPotter.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookshelf-front/public/images/voynaImir.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookshelf-front/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bookshelf-front/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookshelf-front/src/components/Book.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bookshelf-front/src/components/Book.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +41,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bookshelf-front" />
   </component>
   <component name="ProjectId" id="1gGatT6sGwiBg0QzLx9jk17Qizw" />
@@ -55,12 +52,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bookshelf-front/public/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Proekt\vue\bookshelf-front\public\images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -73,7 +75,9 @@
       <workItem from="1597743599114" duration="619000" />
       <workItem from="1597745232070" duration="9000" />
       <workItem from="1597745242661" duration="12980000" />
-      <workItem from="1597766009719" duration="266000" />
+      <workItem from="1597766009719" duration="641000" />
+      <workItem from="1597771171466" duration="119000" />
+      <workItem from="1597775112340" duration="4894000" />
     </task>
     <task id="LOCAL-00001" summary="book">
       <created>1597750695669</created>
@@ -131,6 +135,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="book" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597771284757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597771284757" />
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597749580945">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -139,13 +147,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597745239270" />
-    <state x="558" y="201" key="SettingsEditor" timestamp="1597766276875">
+    <state x="558" y="201" key="SettingsEditor" timestamp="1597771281983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="201" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597766276875" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597766235627">
+    <state x="558" y="201" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597771281983" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597766630195">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597766235627" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597766630195" />
   </component>
 </project>
