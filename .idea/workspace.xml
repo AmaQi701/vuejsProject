@@ -17,11 +17,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ff5e290-3a14-446c-b362-6d704cc760f0" name="Default Changelist" comment="git i">
-      <change afterPath="$PROJECT_DIR$/bookshelf-front/public/images/harryPotter.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookshelf-front/public/images/voynaImir.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookshelf-front/public/images/OtkanKunlar.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookshelf-front/public/images/StivJobs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookshelf-front/public/images/kichkinaShaxzoda.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookshelf-front/public/images/no-img.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookshelf-front/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bookshelf-front/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookshelf-front/src/components/Book.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bookshelf-front/src/components/Book.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
       <workItem from="1597745242661" duration="12980000" />
       <workItem from="1597766009719" duration="641000" />
       <workItem from="1597771171466" duration="119000" />
-      <workItem from="1597775112340" duration="4894000" />
+      <workItem from="1597775112340" duration="5339000" />
     </task>
     <task id="LOCAL-00001" summary="book">
       <created>1597750695669</created>
@@ -100,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597764426217</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="git i">
+      <created>1597780241111</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597780241111</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,9 +139,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="book" />
-    <option name="LAST_COMMIT_MESSAGE" value="book" />
+    <MESSAGE value="git i" />
+    <option name="LAST_COMMIT_MESSAGE" value="git i" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="536" y="148" key="#Notifications" timestamp="1597780598504">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="536" y="148" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1597780598504" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597771284757">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -151,9 +163,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="558" y="201" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597771281983" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597766630195">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597780272369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597766630195" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597780272369" />
   </component>
 </project>
